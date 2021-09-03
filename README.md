@@ -19,3 +19,6 @@ DB_PASSWORD=1234
 
 esta opcion es para  SO mac y servidor local MAMP
 DB_SOCKET=/Applications/MAMP/tmp/mysql/mysql.sock
+
+crear la basse de datos con el nombre products
+ejecutar en consola php artisan migrate
